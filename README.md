@@ -1,5 +1,7 @@
 # Amazon Executive Sales Maximization Dashboard
 
+#### Link: https://executivesalesdashboard-rm6ftciyk7rhdukq5vm5pd.streamlit.app/
+
 A business intelligence application and automated data analytics pipeline built using Python, Pandas, and Streamlit. This application translates raw, unformatted Amazon marketplace transaction logs into strategic pricing strategies and inventory optimization directives for enterprise vendor managers.
 
 ## Business Objectives & Solved Problems
